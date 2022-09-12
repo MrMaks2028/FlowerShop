@@ -15,63 +15,63 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Source.cpp">
+    <ClCompile Include="Storage.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Colors.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Flowers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="FlowerShop.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Products.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Recept.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="SafetySystem.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="TradingPosition.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Worker.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
       <Filter>Файлы ресурсов</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Colors.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Flowers.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\FlowerShop.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Products.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Recept.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\SafetySystem.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Storage.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\TradingPosition.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Worker.cpp">
-      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Colors.h">
+    <ClInclude Include="Colors.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Flowers.h">
+    <ClInclude Include="Flowers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\FlowerShop.h">
+    <ClInclude Include="FlowerShop.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Products.h">
+    <ClInclude Include="Products.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Recept.h">
+    <ClInclude Include="Recept.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\SafetySystem.h">
+    <ClInclude Include="SafetySystem.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Storage.h">
+    <ClInclude Include="Storage.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\TradingPosition.h">
+    <ClInclude Include="TradingPosition.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Worker.h">
+    <ClInclude Include="Worker.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

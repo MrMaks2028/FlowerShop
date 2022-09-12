@@ -127,27 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Colors.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Flowers.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\FlowerShop.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Products.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Recept.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\SafetySystem.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Source.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Storage.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\TradingPosition.cpp" />
-    <ClCompile Include="..\..\OOP-(29.08.2022)\Worker.cpp" />
+    <ClCompile Include="Colors.cpp" />
+    <ClCompile Include="Flowers.cpp" />
+    <ClCompile Include="FlowerShop.cpp" />
+    <ClCompile Include="Products.cpp" />
+    <ClCompile Include="Recept.cpp" />
+    <ClCompile Include="SafetySystem.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Storage.cpp" />
+    <ClCompile Include="TradingPosition.cpp" />
+    <ClCompile Include="Worker.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Colors.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Flowers.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\FlowerShop.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Products.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Recept.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\SafetySystem.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Storage.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\TradingPosition.h" />
-    <ClInclude Include="..\..\OOP-(29.08.2022)\Worker.h" />
+    <ClInclude Include="Colors.h" />
+    <ClInclude Include="Flowers.h" />
+    <ClInclude Include="FlowerShop.h" />
+    <ClInclude Include="Products.h" />
+    <ClInclude Include="Recept.h" />
+    <ClInclude Include="SafetySystem.h" />
+    <ClInclude Include="Storage.h" />
+    <ClInclude Include="TradingPosition.h" />
+    <ClInclude Include="Worker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

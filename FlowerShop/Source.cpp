@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <list>
 #include "FlowerShop.h"
 #include "Worker.h"
 #include "Products.h"
@@ -9,8 +10,6 @@
 int main() {
 	using namespace std;
 	setlocale(LC_ALL, "rus");
-	
-
 
 
 	
